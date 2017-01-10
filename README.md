@@ -126,6 +126,11 @@ This repository contains a list of personally used apps as well as various confi
 * [Domain Whois Lookup Pro](https://play.google.com/store/apps/details?id=com.androidbakkal.whois)
 * [Speedtest.net](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 
+### Terminal
+* [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en)
+* [Termux:Styling](https://play.google.com/store/apps/details?id=com.termux.styling)
+* [Termux:Float](https://play.google.com/store/apps/details?id=com.termux.window)
+
 ### Backups
 * [My Backup Pro](https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro)
 
