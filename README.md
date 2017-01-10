@@ -1,6 +1,6 @@
 # Android
 
-This repository contains a list of personally used apps as well as various configurations for said apps.
+This repository contains a list of personally used apps as well as various configurations for said apps. If you have any suggestions for better alternatives to anything listed below, please feel free to open an issue and let me know.
 
 ## Applications
 
