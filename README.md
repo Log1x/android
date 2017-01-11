@@ -29,7 +29,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 
 ### News
-* [Reddit is fun GP](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation&hl=en)
+* [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en)
 * [Hews for Hacker News](https://play.google.com/store/apps/details?id=com.leavjenn.hews&hl=en)
 * [Stack Exchange](https://play.google.com/store/apps/details?id=com.stackexchange.marvin&hl=en)
 
@@ -44,8 +44,8 @@ This repository contains a list of personally used apps as well as various confi
 
 ### File Management
 * [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager&hl=en)
-* [File Hide Expert](https://play.google.com/store/apps/details?id=com.tonado.boli.hermit.hider&hl=en)
 * [B1 Archiver](https://play.google.com/store/apps/details?id=org.b1.android.archiver&hl=en)
+* [File Hide Expert](https://play.google.com/store/apps/details?id=com.tonado.boli.hermit.hider&hl=en)
 
 ### Chat
 * [IM+ Pro](https://play.google.com/store/apps/details?id=de.shapeservices.implusfull&hl=en)
@@ -62,7 +62,6 @@ This repository contains a list of personally used apps as well as various confi
 * [Zen Pinball](https://play.google.com/store/apps/details?id=com.zenstudios.ZenPinball&hl=en)
 * [Hearthstone](https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone)
 * [PAC-MAN Championship Edition](https://play.google.com/store/apps/details?id=namco.pacman.ce&hl=en)
-* [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en)
 
 ### Social
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)
@@ -71,6 +70,7 @@ This repository contains a list of personally used apps as well as various confi
 * [LinkedIn](https://play.google.com/store/apps/details?id=com.linkedin.android)
 * [Snapchat](https://play.google.com/store/apps/details?id=com.snapchat.android)
 * [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
+* [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community&hl=en)
 
 ### Multimedia
 * [Shuttle+ Music Player](https://play.google.com/store/apps/details?id=com.simplecity.amp_pro)
@@ -130,7 +130,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en)
 * [Termux:Styling](https://play.google.com/store/apps/details?id=com.termux.styling)
 * [Termux:Float](https://play.google.com/store/apps/details?id=com.termux.window)
-* [oh-my-termux](https://github.com/4679/oh-my-termux)
+* [oh-my-termux](https://github.com/4679/oh-my-termux) `apt update && apt install coreutils wget tar less nano openssh`
 
 ### Backups
 * [My Backup Pro](https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro)
