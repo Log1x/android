@@ -130,7 +130,8 @@ This repository contains a list of personally used apps as well as various confi
 * [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en)
 * [Termux:Styling](https://play.google.com/store/apps/details?id=com.termux.styling)
 * [Termux:Float](https://play.google.com/store/apps/details?id=com.termux.window)
-* [oh-my-termux](https://github.com/4679/oh-my-termux) `apt update && apt install coreutils wget tar less nano openssh`
+* [oh-my-termux](https://github.com/4679/oh-my-termux)
+* `apt update && apt install coreutils wget tar less nano openssh`
 
 ### Backups
 * [My Backup Pro](https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro)
