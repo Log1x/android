@@ -4,12 +4,31 @@ This repository contains a list of personally used apps as well as various confi
 
 ## Applications
 
-### System (LG G3 VS985)
-* [CyanogenMod 11](https://forum.xda-developers.com/verizon-lg-g3/development/rom-cyanogenmod-11-vs985-t2934822)
-* [Bootstack 35B](https://www.androidfilehost.com/?fid=24052804347843993)
-* [777jon’s Custom Kernel](https://forum.xda-developers.com/lg-g3/development/kernel-777-kernel-t3003115)
-* [G3 TweaksBox](https://forum.xda-developers.com/showpost.php?p=53618487&postcount=3)
-* [Open GApps Mini](http://opengapps.org/)
+### System (Samsung S7 Edge G935A)
+* [Samsung G935x Rooted Boot Image](http://dl.psouza4.com/android/SMG935/Samsung_G935x_QC_Rooted_BOOT.TAR)
+* [SuperSU v2.76](https://download.chainfire.eu/970/SuperSU/SuperSU-v2.76-S7QC.zip)
+* [S7 Edge Fixes+Debloater V15](http://dl.psouza4.com/android/S7_or_S7Edge_Fixes_Debloater_V15.zip)
+* [S7 Edge DeepDebloat V2](http://dl.psouza4.com/android/S7_or_S7Edge_DeepDebloat_V2.zip)
+* [FlashFire](https://play.google.com/store/apps/details?id=eu.chainfire.flash)
+* [Xposed Framework](http://dl.psouza4.com/android/xposed/xposed-v85.1-sdk23-arm64-custom-build-by-wanam-20160530.zip)
+* [Xposed Installer](http://forum.xda-developers.com/attachment.php?attachmentid=3383776&d=1435601440)
+
+### Xposed Modules
+* [App Settings](http://repo.xposed.info/module/de.robv.android.xposed.mods.appsettings)
+* [BootManager](http://repo.xposed.info/module/de.defim.apk.bootmanager)
+* [CrappaLinks](http://repo.xposed.info/module/com.germainz.crappalinks)
+* [CustomShare](http://repo.xposed.info/module/de.defim.apk.customshare)
+* [Disable Instagram Double Tap](http://repo.xposed.info/module/com.akif.instagram.disabledt2l)
+* [Flat Style Bar Indicators](http://repo.xposed.info/module/com.bocharov.xposed.fsbi)
+* [Glitchify](http://repo.xposed.info/module/com.leagueofnewbs.glitchify)
+* [GravityBox [MM]](http://repo.xposed.info/module/com.ceco.marshmallow.gravitybox)
+* [MinMinGuard](http://repo.xposed.info/module/tw.fatminmin.xposed.minminguard)
+* [Snapprefs](http://repo.xposed.info/module/com.marz.snapprefs)
+* [TwitchNoAds](http://repo.xposed.info/module/io.mh0rst.twitchnoads)
+* [XposedTorch](http://repo.xposed.info/module/ma.wanam.torch)
+* [YouTube AdAway](http://repo.xposed.info/module/ma.wanam.youtubeadaway)
+* [YouTube Background Playback](http://repo.xposed.info/module/com.pyler.youtubebackgroundplayback)
+* [Zoom For Instagram](http://repo.xposed.info/module/com.taptigo.xposedmodules.igzoom)
 
 ### Customization
 * [Launcher 8](https://play.google.com/store/apps/details?id=com.lx.launcher8&hl=en)
@@ -17,11 +36,15 @@ This repository contains a list of personally used apps as well as various confi
 * [Sense 7 Zooper PRO](https://play.google.com/store/apps/details?id=apps.fur.cats.zwskin.sense7&hl=en)
 * [Minimalistic Text: Widgets (Pro)](https://play.google.com/store/apps/details?id=de.devmil.minimaltext.donate&hl=en)
 * [Weather XL PRO](https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en)
-* [Euphoria Dark CM13 Theme](https://play.google.com/store/apps/details?id=com.blazze11.euphoria.dark.donate&hl=en)
 * [Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en)
-* [GMD Auto Hide Softkeys](https://play.google.com/store/apps/details?id=com.gmd.hidesoftkeys&hl=en)
-* [Volume Booster LG G3](https://play.google.com/store/apps/details?id=com.laransoft.volumeG3&hl=en)
-* [Lock screen changer CM12](https://play.google.com/store/apps/details?id=com.miniprepumen.cm12.changelockscreencm12&hl=en)
+
+### Optimization
+* [Amplify](https://play.google.com/store/apps/details?id=com.ryansteckler.nlpunbounce)
+* [ForceDoze](https://play.google.com/store/apps/details?id=com.suyashsrijan.forcedoze)
+* [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify.pro)
+* [L Speed](https://play.google.com/store/apps/details?id=com.paget96.lspeed)
+* [LeanDroid](https://play.google.com/store/apps/details?id=com.teqtic.leandata)
+* [Guide by pszoua4](https://forum.xda-developers.com/verizon-galaxy-s7/how-to/guide-fine-tuning-performance-battery-t3417804)
 
 ### Internet
 * [Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta&hl=en)
@@ -131,7 +154,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Termux:Styling](https://play.google.com/store/apps/details?id=com.termux.styling)
 * [Termux:Float](https://play.google.com/store/apps/details?id=com.termux.window)
 * [oh-my-termux](https://github.com/4679/oh-my-termux)
-* `apt update && apt install coreutils wget tar less nano openssh`
+* `apt update && apt install -y curl coreutils wget tar less nano openssh && bash -c "$(curl -fsSL https://git.io/oh-my-termux)"`
 
 ### Backups
 * [My Backup Pro](https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro)
