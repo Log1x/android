@@ -173,4 +173,4 @@ This repository contains a list of personally used apps as well as various confi
 * [Yahoo CM Weather Provider](https://play.google.com/store/apps/details?id=org.cyanogenmod.yahooweatherprovider)
 * [Brother Print Service](https://play.google.com/store/apps/details?id=com.brother.printservice)
 
-Applications marked with * are paid apps.
+Applications marked with [*] are paid apps totaling ~$62.30.
