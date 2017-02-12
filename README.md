@@ -10,6 +10,7 @@ This repository contains a list of personally used apps as well as various confi
 * [S7 Edge Fixes+Debloater V15](http://dl.psouza4.com/android/S7_or_S7Edge_Fixes_Debloater_V15.zip)
 * [S7 Edge DeepDebloat V2](http://dl.psouza4.com/android/S7_or_S7Edge_DeepDebloat_V2.zip)
 * [FlashFire](https://play.google.com/store/apps/details?id=eu.chainfire.flash)
+* [BusyBox for Android](https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer&hl=en)
 * [Xposed Framework](http://dl.psouza4.com/android/xposed/xposed-v85.1-sdk23-arm64-custom-build-by-wanam-20160530.zip)
 * [Xposed Installer](http://forum.xda-developers.com/attachment.php?attachmentid=3383776&d=1435601440)
 
