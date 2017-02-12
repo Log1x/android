@@ -50,6 +50,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta&hl=en)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en)
 * [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+* [µTorrent Pro](https://play.google.com/store/apps/details?id=com.utorrent.client.pro&hl=en)
 
 ### News
 * [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en)
@@ -64,6 +65,9 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Finance
 * [PayPal Business](https://play.google.com/store/apps/details?id=com.paypal.merchant.client)
+
+### Authentication
+* [FreeOTP](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp&hl=en)
 
 ### File Management
 * [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager&hl=en)
@@ -101,7 +105,6 @@ This repository contains a list of personally used apps as well as various confi
 * [foobar2000 controller](https://play.google.com/store/apps/details?id=com.cav.foobar2000controller)
 * [Plex for Android](https://play.google.com/store/apps/details?id=com.plexapp.android)
 * [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)
-* [YouTube: Stream](https://play.google.com/store/apps/details?id=com.djit.apps.stream)
 
 ### Images
 * [Photo Editor Pro](https://play.google.com/store/apps/details?id=com.zentertain.photoeditor)
