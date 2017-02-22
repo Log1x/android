@@ -6,9 +6,9 @@ This repository contains a list of personally used apps as well as various confi
 
 ### System (Samsung S7 Edge G935A)
 * [Echoe G935 Universal v1.5](https://www.androidfilehost.com/?fid=457095661767111914)
+* [Samsung G935x Rooted Boot Image](http://dl.psouza4.com/android/SMG935/Samsung_G935x_QC_Rooted_BOOT.TAR)
 * [Generic Android Boot Animations](https://log1x.com/files/log1x-generic-bootanimations.zip)
 * [S7 Edge CPU Fixes](https://log1x.com/files/s7e_CPU_Fixes.zip)
-* [Samsung G935x Rooted Boot Image](http://dl.psouza4.com/android/SMG935/Samsung_G935x_QC_Rooted_BOOT.TAR)
 * [SuperSU v2.76](https://download.chainfire.eu/970/SuperSU/SuperSU-v2.76-S7QC.zip)
 * [FlashFire *](https://play.google.com/store/apps/details?id=eu.chainfire.flash)
 * [BusyBox for Android *](https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer&hl=en)
