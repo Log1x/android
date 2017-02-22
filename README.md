@@ -5,10 +5,10 @@ This repository contains a list of personally used apps as well as various confi
 ## Applications
 
 ### System (Samsung S7 Edge G935A)
+* [Echoe G935 Universal v1.5](https://www.androidfilehost.com/?fid=457095661767111914)
+* [S7 Edge CPU Fixes](https://log1x.com/files/s7e_CPU_Fixes.zip)
 * [Samsung G935x Rooted Boot Image](http://dl.psouza4.com/android/SMG935/Samsung_G935x_QC_Rooted_BOOT.TAR)
 * [SuperSU v2.76](https://download.chainfire.eu/970/SuperSU/SuperSU-v2.76-S7QC.zip)
-* [S7 Edge Fixes+Debloater V15](http://dl.psouza4.com/android/S7_or_S7Edge_Fixes_Debloater_V15.zip)
-* [S7 Edge DeepDebloat V2](http://dl.psouza4.com/android/S7_or_S7Edge_DeepDebloat_V2.zip)
 * [FlashFire *](https://play.google.com/store/apps/details?id=eu.chainfire.flash)
 * [BusyBox for Android *](https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer&hl=en)
 * [Xposed Framework](http://dl.psouza4.com/android/xposed/xposed-v85.1-sdk23-arm64-custom-build-by-wanam-20160530.zip)
@@ -33,11 +33,11 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Customization
 * [Launcher 8 *](https://play.google.com/store/apps/details?id=com.lx.launcher8&hl=en)
+* [SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=en)
 * [Zooper Widget Pro *](https://play.google.com/store/apps/details?id=org.zooper.zwpro&hl=en)
 * [Sense 7 Zooper PRO](https://play.google.com/store/apps/details?id=apps.fur.cats.zwskin.sense7&hl=en)
 * [Minimalistic Text: Widgets *](https://play.google.com/store/apps/details?id=de.devmil.minimaltext.donate&hl=en)
 * [Weather XL PRO *](https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en)
-* [Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en)
 
 ### Optimization
 * [Amplify *](https://play.google.com/store/apps/details?id=com.ryansteckler.nlpunbounce)
@@ -89,7 +89,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Tetris](https://play.google.com/store/apps/details?id=com.ea.game.tetris2011_na&hl=en)
 * [Zen Pinball](https://play.google.com/store/apps/details?id=com.zenstudios.ZenPinball&hl=en)
 * [Hearthstone](https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone)
-* [PAC-MAN Championship Edition](https://play.google.com/store/apps/details?id=namco.pacman.ce&hl=en)
+* [PAC-MAN Championship Edition *](https://play.google.com/store/apps/details?id=namco.pacman.ce&hl=en)
 * [Golf Clash](https://play.google.com/store/apps/details?id=com.playdemic.golf.android&hl=en)
 
 ### Social
