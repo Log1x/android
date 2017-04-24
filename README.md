@@ -5,17 +5,13 @@ This repository contains a list of personally used apps as well as various confi
 ## Applications
 
 ### System (Samsung S7 Edge G935A)
-* [Echoe G935 Universal v1.5](https://www.androidfilehost.com/?fid=457095661767111914)
-* [Samsung G935x Rooted Boot Image](http://dl.psouza4.com/android/SMG935/Samsung_G935x_QC_Rooted_BOOT.TAR)
-* [Generic Android Boot Animations](https://log1x.com/files/log1x-generic-bootanimations.zip)
-* [S7 Edge CPU Fixes](https://log1x.com/files/s7e_CPU_Fixes.zip)
-* [SuperSU v2.76](https://download.chainfire.eu/970/SuperSU/SuperSU-v2.76-S7QC.zip)
+* [Nougat TMO](https://forum.xda-developers.com/tmobile-s7-edge/development/rom-t3572739)
+* [Samsung G935x Nougat EngBoot](https://www.androidfilehost.com/?fid=745425885120713401)
+* [S7 Edge Root w/ CPU Fixes](https://forum.xda-developers.com/showpost.php?p=71700562&postcount=688)
 * [FlashFire *](https://play.google.com/store/apps/details?id=eu.chainfire.flash)
 * [BusyBox for Android *](https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer&hl=en)
-* [Xposed Framework](http://dl.psouza4.com/android/xposed/xposed-v85.1-sdk23-arm64-custom-build-by-wanam-20160530.zip)
-* [Xposed Installer](http://forum.xda-developers.com/attachment.php?attachmentid=3383776&d=1435601440)
 
-### Xposed Modules
+### Xposed Modules [Currently waiting for Nougat Update]
 * [App Settings](http://repo.xposed.info/module/de.robv.android.xposed.mods.appsettings)
 * [BootManager](http://repo.xposed.info/module/de.defim.apk.bootmanager)
 * [CrappaLinks](http://repo.xposed.info/module/com.germainz.crappalinks)
@@ -49,7 +45,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Guide by pszoua4](https://forum.xda-developers.com/verizon-galaxy-s7/how-to/guide-fine-tuning-performance-battery-t3417804)
 
 ### Internet
-* [Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta&hl=en)
+* [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=en)
 * [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 * [µTorrent Pro *](https://play.google.com/store/apps/details?id=com.utorrent.client.pro&hl=en)
@@ -61,20 +57,22 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Shopping
 * [Amazon Shopping](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping)
-* [CL Mobile](https://play.google.com/store/apps/details?id=com.mtph.clmobile)
 * [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 * [Fiverr](https://play.google.com/store/apps/details?id=com.fiverr.fiverr)
 
 ### Finance
 * [PayPal Business](https://play.google.com/store/apps/details?id=com.paypal.merchant.client)
 
+### Calcuators
+* [Calc+](https://play.google.com/store/apps/details?id=mobi.appplus.calculator.plus&hl=en)
+* [One++](https://play.google.com/store/apps/details?id=com.saschaha.one&hl=en)
+
 ### Authentication
-* [FreeOTP](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp&hl=en)
+* [Authenticator Plus](https://play.google.com/store/apps/details?id=com.mufri.authenticatorplus&hl=en)
+* [QR Code Reader](https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner&hl=en)
 
 ### File Management
 * [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager&hl=en)
-* [B1 Archiver](https://play.google.com/store/apps/details?id=org.b1.android.archiver&hl=en)
-* [File Hide Expert](https://play.google.com/store/apps/details?id=com.tonado.boli.hermit.hider&hl=en)
 
 ### Chat
 * [IM+ Pro *](https://play.google.com/store/apps/details?id=de.shapeservices.implusfull&hl=en)
@@ -83,15 +81,6 @@ This repository contains a list of personally used apps as well as various confi
 * [Slack](https://play.google.com/store/apps/details?id=com.Slack&hl=en)
 * [Skype](https://play.google.com/store/apps/details?id=com.skype.raider&hl=en)
 * [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=en)
-
-### Games
-* [8 Ball Pool](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en)
-* [Bowling King](https://play.google.com/store/apps/details?id=com.pnixgames.bowlingking&hl=en)
-* [Tetris](https://play.google.com/store/apps/details?id=com.ea.game.tetris2011_na&hl=en)
-* [Zen Pinball](https://play.google.com/store/apps/details?id=com.zenstudios.ZenPinball&hl=en)
-* [Hearthstone](https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone)
-* [PAC-MAN Championship Edition *](https://play.google.com/store/apps/details?id=namco.pacman.ce&hl=en)
-* [Golf Clash](https://play.google.com/store/apps/details?id=com.playdemic.golf.android&hl=en)
 
 ### Social
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en)
@@ -122,7 +111,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Pushbullet](https://play.google.com/store/apps/details?id=com.pushbullet.android)
 
 ### Git
-* [PocketHub](https://play.google.com/store/apps/details?id=com.github.pockethub.android)
+* [FastHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en)
 * [Pocket Git *](https://play.google.com/store/apps/details?id=com.aor.pocketgit)
 * [Bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
 
