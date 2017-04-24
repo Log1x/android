@@ -78,7 +78,6 @@ This repository contains a list of personally used apps as well as various confi
 * [IM+ Pro *](https://play.google.com/store/apps/details?id=de.shapeservices.implusfull&hl=en)
 * [AndroIRC *](https://play.google.com/store/apps/details?id=com.androirc&hl=en)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en)
-* [Slack](https://play.google.com/store/apps/details?id=com.Slack&hl=en)
 * [Skype](https://play.google.com/store/apps/details?id=com.skype.raider&hl=en)
 * [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=en)
 
@@ -93,12 +92,13 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Multimedia
 * [Shuttle+ Music Player *](https://play.google.com/store/apps/details?id=com.simplecity.amp_pro)
-* [Simple Last.fm Scrobbler](https://play.google.com/store/apps/details?id=com.adam.aslfms)
+* [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro&hl=en)
 * [foobar2000 controller](https://play.google.com/store/apps/details?id=com.cav.foobar2000controller)
 * [Plex for Android](https://play.google.com/store/apps/details?id=com.plexapp.android)
 * [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)
 
 ### Images
+* [QuickPic](https://play.google.com/store/apps/details?id=com.alensw.PicFolder&hl=en)
 * [Photo Editor Pro](https://play.google.com/store/apps/details?id=com.zentertain.photoeditor)
 * [Imgur](https://play.google.com/store/apps/details?id=com.imgur.mobile)
 * [Uploader for Imgur](https://play.google.com/store/apps/details?id=net.moosen.imgur)
@@ -112,8 +112,8 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Git
 * [FastHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en)
-* [Pocket Git *](https://play.google.com/store/apps/details?id=com.aor.pocketgit)
 * [Bitbeaker](https://play.google.com/store/apps/details?id=fi.iki.kuitsi.bitbeaker)
+* [Pocket Git *](https://play.google.com/store/apps/details?id=com.aor.pocketgit)
 
 ### Ads & Analytics
 * [AdWords](https://play.google.com/store/apps/details?id=com.google.android.apps.adwords)
@@ -132,6 +132,7 @@ This repository contains a list of personally used apps as well as various confi
 
 ### Remote Management
 * [TeamViewer](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
+* [RD Client](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android&hl=en)
 
 ### FTP
 * [Turbo FTP](https://play.google.com/store/apps/details?id=turbo.client)
@@ -149,7 +150,7 @@ This repository contains a list of personally used apps as well as various confi
 * [Termux:Styling *](https://play.google.com/store/apps/details?id=com.termux.styling)
 * [Termux:Float *](https://play.google.com/store/apps/details?id=com.termux.window)
 * [oh-my-termux](https://github.com/4679/oh-my-termux)
-* `apt update && apt install -y curl coreutils wget tar less nano openssh && bash -c "$(curl -fsSL https://git.io/oh-my-termux)"`
+* `apt update && apt install -y curl coreutils wget tar less nano openssh screenfetch && bash -c "$(curl -fsSL https://git.io/oh-my-termux)"`
 
 ### Backups
 * [My Backup Pro *](https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro)
@@ -159,7 +160,6 @@ This repository contains a list of personally used apps as well as various confi
 * [CPU-Z *](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z)
 
 ### Services
-* [Amazon Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app)
 * [Yahoo CM Weather Provider](https://play.google.com/store/apps/details?id=org.cyanogenmod.yahooweatherprovider)
 * [Brother Print Service](https://play.google.com/store/apps/details?id=com.brother.printservice)
 
