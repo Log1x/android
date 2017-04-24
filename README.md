@@ -37,12 +37,9 @@ This repository contains a list of personally used apps as well as various confi
 * [Weather XL PRO *](https://play.google.com/store/apps/details?id=com.exovoid.weather.app&hl=en)
 
 ### Optimization
-* [Amplify *](https://play.google.com/store/apps/details?id=com.ryansteckler.nlpunbounce)
-* [ForceDoze](https://play.google.com/store/apps/details?id=com.suyashsrijan.forcedoze)
 * [Greenify *](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify.pro)
-* [L Speed](https://play.google.com/store/apps/details?id=com.paget96.lspeed)
-* [LeanDroid](https://play.google.com/store/apps/details?id=com.teqtic.leandata)
-* [Guide by pszoua4](https://forum.xda-developers.com/verizon-galaxy-s7/how-to/guide-fine-tuning-performance-battery-t3417804)
+* [L Speed](https://play.google.com/store/apps/details?id=com.paget96.lspeed&hl=en)
+* [SSD Boost](https://play.google.com/store/apps/details?id=com.puandr.boost&hl=en)
 
 ### Internet
 * [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en)
